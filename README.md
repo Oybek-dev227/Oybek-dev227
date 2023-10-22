@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Oybek-dev227
+- 👋 Hi, I’m Full stack developer
 - 👀 I’m interested in Create news
-- 🌱 I’m currently learning Programming
 - 💞️ I want to work in big companies in my field 
 - 📫 How to reach me oybekyusupov185@gmail.com
 
